@@ -7,8 +7,10 @@
 Obtenida de: unicef.org
 
 Fuente Roboto (Medium 500) 15px
+
 ![roboto](/images/nav.jpg)
 Fuente Montserrat (Fuente sugerida en el Figma) 15px
+
 ![monstserrat](/images/nav2.jpg)
 
 Sugiero utilizar como tipografía la fuente Roboto ya que tiene mas cuerpo (weight), lo que la hace mas legible. Además de que aporta más seriedad sobre otro tipo de fuentes.
@@ -16,15 +18,19 @@ Sugiero utilizar como tipografía la fuente Roboto ya que tiene mas cuerpo (weig
 ---
 
 Fuente Roboto (Bold 700) 15px
+
 ![bold-roboto](/images/bold.jpg)
 Fuente Montserrat Bold 15px
+
 ![bold-motserrat](/images/bold2.jpg)
 
 ---
 
 Fuente Roboto (Regular) 56px - Fuente Roboto (Light) 48px
+
 ![regular-roboto](/images/hero.jpg)
 Fuente Montserrat Regular 56px - Fuente Montserrat (Regular) 48px
+
 ![regular-montserrat](/images/hero2.jpg)
 
 ---
@@ -102,6 +108,7 @@ En esta imagen podemos ver que se utilizan otras tonalidades de azul para los bo
 ---
 
 Como vimos en la sección [botones](#botones), los outlined buttons con los colores de marca no se llevan bien con los fondos claros, por lo que mi sugerencia sería utilizar filled buttons
+
 ![boton-caritas](/images/boton-caritas.jpg)
 
 Para los links de la barra de navegación sugiero utilizar color base negro (o gris oscuro) y utilizar hovering con color rojo o azul de marca, como podemos ver en el menú de [banco de alimentos](https://www.bancodealimentos.org.ar)
