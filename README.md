@@ -9,6 +9,7 @@ Obtenida de: unicef.org
 Fuente Roboto (Medium 500) 15px
 
 ![roboto](/images/nav.jpg)
+
 Fuente Montserrat (Fuente sugerida en el Figma) 15px
 
 ![monstserrat](/images/nav2.jpg)
@@ -20,6 +21,7 @@ Sugiero utilizar como tipografía la fuente Roboto ya que tiene mas cuerpo (weig
 Fuente Roboto (Bold 700) 15px
 
 ![bold-roboto](/images/bold.jpg)
+
 Fuente Montserrat Bold 15px
 
 ![bold-motserrat](/images/bold2.jpg)
@@ -29,6 +31,7 @@ Fuente Montserrat Bold 15px
 Fuente Roboto (Regular) 56px - Fuente Roboto (Light) 48px
 
 ![regular-roboto](/images/hero.jpg)
+
 Fuente Montserrat Regular 56px - Fuente Montserrat (Regular) 48px
 
 ![regular-montserrat](/images/hero2.jpg)
